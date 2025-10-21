@@ -66,7 +66,7 @@ flowchart TD
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/techsage-crew.git
+git clone https://github.com/riyad1721/techsage-crew.git
 cd techsage-crew
 ```
 
