@@ -1,0 +1,9 @@
+crewai
+langchain_google_genai
+load_dotenv
+crewai[tools]
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
